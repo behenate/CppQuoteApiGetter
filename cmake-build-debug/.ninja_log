@@ -1,0 +1,18 @@
+# ninja log v5
+4	48	1653316978741544400	project2_autogen/mocs_compilation.cpp	7912ecf76eb77c38
+4	48	1653316978741544400	/home/wojciech/Studia/Cpp/Zadania/project2/cmake-build-debug/project2_autogen/timestamp	7912ecf76eb77c38
+27	3499	1653316934899519800	CMakeFiles/project2.dir/QuoteGenerator.cpp.o	d3063bd0ae5d2418
+283	2418	1653316956988317700	CMakeFiles/project2.dir/project2_autogen/mocs_compilation.cpp.o	15ec3d35ea87318c
+0	227	1653317024610073200	build.ninja	355380d1f1e70c82
+4	48	1653316978741544400	/home/wojciech/Studia/Cpp/Zadania/project2/cmake-build-debug/project2_autogen/mocs_compilation.cpp	7912ecf76eb77c38
+4	48	1653316978741544400	project2_autogen/timestamp	7912ecf76eb77c38
+2555	3111	1653316981798196800	project2	2217b9445e304af8
+50	2554	1653316981244699800	CMakeFiles/project2.dir/main.cpp.o	d3cf6a5bf8b8d321
+284	2551	1653316957121239100	CMakeFiles/project2.dir/MyWidget.cpp.o	e1a59f76b586d9dd
+2	243	1653317024610073200	build.ninja	355380d1f1e70c82
+5	37	1653317024683000200	project2_autogen/timestamp	7912ecf76eb77c38
+5	37	1653317024683000200	project2_autogen/mocs_compilation.cpp	7912ecf76eb77c38
+5	37	1653317024683000200	/home/wojciech/Studia/Cpp/Zadania/project2/cmake-build-debug/project2_autogen/timestamp	7912ecf76eb77c38
+5	37	1653317024683000200	/home/wojciech/Studia/Cpp/Zadania/project2/cmake-build-debug/project2_autogen/mocs_compilation.cpp	7912ecf76eb77c38
+39	79	1653317024731913500	CMakeFiles/project2.dir/project2_autogen/mocs_compilation.cpp.o	15ec3d35ea87318c
+80	735	1653317025383029300	project2	e41ffc753efc344e

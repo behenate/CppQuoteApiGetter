@@ -1,0 +1,5 @@
+/home/wojciech/Studia/Cpp/Zadania/project2/cmake-build-debug/CMakeFiles/project2.dir
+/home/wojciech/Studia/Cpp/Zadania/project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wojciech/Studia/Cpp/Zadania/project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wojciech/Studia/Cpp/Zadania/project2/cmake-build-debug/CMakeFiles/project2_autogen_timestamp_deps.dir
+/home/wojciech/Studia/Cpp/Zadania/project2/cmake-build-debug/CMakeFiles/project2_autogen.dir
